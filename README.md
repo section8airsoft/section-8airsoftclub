@@ -47,3 +47,55 @@ section-8airsoftclub/
   </footer>
 </body>
 </html>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #eee;
+}
+
+header {
+  background: #000;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  color: #eee;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  text-align: center;
+  padding: 50px;
+  background: url('../images/banner.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.hero h1 {
+  font-size: 48px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.hero p {
+  font-size: 20px;
+  color: #f00;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #f00;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
