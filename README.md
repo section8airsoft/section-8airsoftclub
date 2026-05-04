@@ -1,12 +1,16 @@
-# Section‑8 Airsoft Club Strumica
-
-## 🎯 Overview
-Welcome to the official repository for **Section‑8 Airsoft Club Strumica** — a tactical brotherhood founded in 2026.  
-Our mission is to unite airsoft enthusiasts through teamwork, discipline, and adrenaline‑filled gameplay.
-
-Website: [section‑8airsoftclub.mk](https://section-8airsoftclub.mk)
-
----
-
-## 🧱 Project Structure
-
+section-8airsoftclub/
+├── index.html
+├── about.html
+├── gallery.html
+├── events.html
+├── join.html
+├── contact.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+│   └── logo.png
+│   └── banner.jpg
+├── CNAME
+└── README.md
